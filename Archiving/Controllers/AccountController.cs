@@ -7,19 +7,21 @@ using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using System.Security.Claims;
 using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Configuration;
 
 namespace Archiving.Controllers
 {
     public class AccountController : Controller
     {
-        private const string DEFAULT_DIRECTORY = "C:\\";
+        private readonly IConfiguration _configuration;
         private readonly ILogger<AccountController> _logger;
         private readonly IAccountService _accountService;
 
-        public AccountController(IAccountService accountService, ILogger<AccountController> logger)
+        public AccountController(IAccountService accountService, ILogger<AccountController> logger, IConfiguration config)
         {
             _accountService = accountService;
             _logger = logger;
+            _configuration = config;
         }
 
         [HttpGet]
@@ -39,7 +41,7 @@ namespace Archiving.Controllers
                 var claimsIdentity = new ClaimsIdentity(claims, "ApplicationCookie", ClaimsIdentity.DefaultNameClaimType, ClaimsIdentity.DefaultRoleClaimType);
                 HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, new ClaimsPrincipal(claimsIdentity));
                 _logger.LogInformation("User {0} successfully sign in", loginModel.Login);
-                return RedirectToAction("ArchivingFiles", "Archiving", new { directoryName = DEFAULT_DIRECTORY });
+                return RedirectToAction("ArchivingFiles", "Archiving", new { directoryName = _configuration["DefaultDirectory"] });
             }
             else
             {

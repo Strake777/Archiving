@@ -32,12 +32,12 @@
         <input id="stop" type="button" value="Отменить" />
     </div>
 
-    <form asp-action="Logout" asp-controller="Account" asp-anti-forgery="true">
-        <div class="validation" asp-validation-summary="ModelOnly" />
-        <div>
-            <input type="submit" value="Выход" />
-        </div>
-    </form>
+    <div>
+        @using (Html.BeginForm("Logout", "Account", FormMethod.Get))
+        {
+            <p><input type="submit" value="Выход" /></p>
+        }
+    </div>
 
     <script src="~/js/signalr.min.js"></script>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
@@ -55,7 +55,7 @@
 
         hubConnection.start();
 
-        
+
 
         $('#start').click(function (e) {
             e.preventDefault();
