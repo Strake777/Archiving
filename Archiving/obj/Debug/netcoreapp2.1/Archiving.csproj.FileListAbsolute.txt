@@ -1,0 +1,246 @@
+C:\Project\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.deps.json
+C:\Project\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.runtimeconfig.json
+C:\Project\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.runtimeconfig.dev.json
+C:\Project\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.dll
+C:\Project\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.csprojAssemblyReference.cache
+C:\Project\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.csproj.CoreCompileInputs.cache
+C:\Project\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorAssemblyInfo.cache
+C:\Project\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorAssemblyInfo.cs
+C:\Project\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.AssemblyInfoInputs.cache
+C:\Project\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.AssemblyInfo.cs
+C:\Project\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.TagHelpers.input.cache
+C:\Project\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.TagHelpers.output.cache
+C:\Project\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorCoreGenerate.cache
+C:\Project\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Project\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Project\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Project\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Project\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Project\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Project\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorTargetAssemblyInfo.cache
+C:\Project\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorTargetAssemblyInfo.cs
+C:\Project\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.pdb
+C:\Project\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.Views.dll
+C:\Project\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.Views.pdb
+C:\Project\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.Views.pdb
+C:\Project\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.dll
+C:\Project\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.pdb
+C:\Project\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.csproj.CopyComplete
+C:\Project\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.BLL.dll
+C:\Project\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.DAL.dll
+C:\Project\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.BLL.pdb
+C:\Project\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.DAL.pdb
+C:\Project\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Project\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Account\SignIn.g.cshtml.cs
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.deps.json
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.runtimeconfig.json
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.runtimeconfig.dev.json
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.dll
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.pdb
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.Views.dll
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.Views.pdb
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.BLL.dll
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.DAL.dll
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.BLL.pdb
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.DAL.pdb
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.csprojAssemblyReference.cache
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.csproj.CoreCompileInputs.cache
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorAssemblyInfo.cache
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorAssemblyInfo.cs
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.AssemblyInfoInputs.cache
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.AssemblyInfo.cs
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.TagHelpers.input.cache
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.TagHelpers.output.cache
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorCoreGenerate.cache
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Account\SignIn.g.cshtml.cs
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorTargetAssemblyInfo.cache
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorTargetAssemblyInfo.cs
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.Views.pdb
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.csproj.CopyComplete
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.dll
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.pdb
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\bin\Debug\netcoreapp2.1\nlog.config
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Archiving\Index.g.cshtml.cs
+C:\Users\Kalin\Desktop\Archiving\Archiving\bin\Debug\netcoreapp2.1\nlog.config
+C:\Users\Kalin\Desktop\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.deps.json
+C:\Users\Kalin\Desktop\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.runtimeconfig.json
+C:\Users\Kalin\Desktop\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.runtimeconfig.dev.json
+C:\Users\Kalin\Desktop\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.dll
+C:\Users\Kalin\Desktop\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.pdb
+C:\Users\Kalin\Desktop\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.Views.dll
+C:\Users\Kalin\Desktop\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.Views.pdb
+C:\Users\Kalin\Desktop\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.BLL.dll
+C:\Users\Kalin\Desktop\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.DAL.dll
+C:\Users\Kalin\Desktop\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.BLL.pdb
+C:\Users\Kalin\Desktop\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.DAL.pdb
+C:\Users\Kalin\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.csprojAssemblyReference.cache
+C:\Users\Kalin\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.csproj.CoreCompileInputs.cache
+C:\Users\Kalin\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorAssemblyInfo.cache
+C:\Users\Kalin\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorAssemblyInfo.cs
+C:\Users\Kalin\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.AssemblyInfoInputs.cache
+C:\Users\Kalin\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.AssemblyInfo.cs
+C:\Users\Kalin\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.TagHelpers.input.cache
+C:\Users\Kalin\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.TagHelpers.output.cache
+C:\Users\Kalin\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorCoreGenerate.cache
+C:\Users\Kalin\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\Kalin\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Account\SignIn.g.cshtml.cs
+C:\Users\Kalin\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Archiving\Index.g.cshtml.cs
+C:\Users\Kalin\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Kalin\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Kalin\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Kalin\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Kalin\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Kalin\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorTargetAssemblyInfo.cache
+C:\Users\Kalin\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorTargetAssemblyInfo.cs
+C:\Users\Kalin\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.Views.pdb
+C:\Users\Kalin\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.csproj.CopyComplete
+C:\Users\Kalin\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.dll
+C:\Users\Kalin\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.pdb
+C:\Users\Kalin\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Archiving\ArchivingFiles.g.cshtml.cs
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Archiving\ArchivingFiles.g.cshtml.cs
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\bin\Debug\netcoreapp2.1\nlog.config
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.deps.json
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.runtimeconfig.json
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.runtimeconfig.dev.json
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.dll
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.pdb
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.Views.dll
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.Views.pdb
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.BLL.dll
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.DAL.dll
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.BLL.pdb
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.DAL.pdb
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.csprojAssemblyReference.cache
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.csproj.CoreCompileInputs.cache
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorAssemblyInfo.cache
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorAssemblyInfo.cs
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.AssemblyInfoInputs.cache
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.AssemblyInfo.cs
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.TagHelpers.input.cache
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.TagHelpers.output.cache
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorCoreGenerate.cache
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Account\SignIn.g.cshtml.cs
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Archiving\ArchivingFiles.g.cshtml.cs
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorTargetAssemblyInfo.cache
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorTargetAssemblyInfo.cs
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.Views.pdb
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.csproj.CopyComplete
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.dll
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.pdb
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\bin\Debug\netcoreapp2.1\nlog.config
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.deps.json
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.runtimeconfig.json
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.runtimeconfig.dev.json
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.dll
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.pdb
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.Views.dll
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.Views.pdb
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.BLL.dll
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.DAL.dll
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.BLL.pdb
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.DAL.pdb
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.csprojAssemblyReference.cache
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.csproj.CoreCompileInputs.cache
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorAssemblyInfo.cache
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorAssemblyInfo.cs
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.AssemblyInfoInputs.cache
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.AssemblyInfo.cs
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.TagHelpers.input.cache
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.TagHelpers.output.cache
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorCoreGenerate.cache
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Account\SignIn.g.cshtml.cs
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Archiving\ArchivingFiles.g.cshtml.cs
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorTargetAssemblyInfo.cache
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorTargetAssemblyInfo.cs
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.Views.pdb
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.csproj.CopyComplete
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.dll
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.pdb
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\bin\Debug\netcoreapp2.1\nlog.config
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.deps.json
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.runtimeconfig.json
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.runtimeconfig.dev.json
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.dll
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.pdb
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.Views.dll
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.Views.pdb
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.BLL.dll
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.DAL.dll
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.BLL.pdb
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.DAL.pdb
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.csprojAssemblyReference.cache
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.csproj.CoreCompileInputs.cache
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorAssemblyInfo.cache
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorAssemblyInfo.cs
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.AssemblyInfoInputs.cache
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.AssemblyInfo.cs
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.TagHelpers.input.cache
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.TagHelpers.output.cache
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorCoreGenerate.cache
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Account\SignIn.g.cshtml.cs
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Archiving\ArchivingFiles.g.cshtml.cs
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorTargetAssemblyInfo.cache
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorTargetAssemblyInfo.cs
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.Views.pdb
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.csproj.CopyComplete
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.dll
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.pdb
+C:\Projects\Arch_git\Archiving\Archiving\bin\Debug\netcoreapp2.1\nlog.config
+C:\Projects\Arch_git\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.deps.json
+C:\Projects\Arch_git\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.runtimeconfig.json
+C:\Projects\Arch_git\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.runtimeconfig.dev.json
+C:\Projects\Arch_git\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.dll
+C:\Projects\Arch_git\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.pdb
+C:\Projects\Arch_git\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.Views.dll
+C:\Projects\Arch_git\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.Views.pdb
+C:\Projects\Arch_git\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.BLL.dll
+C:\Projects\Arch_git\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.DAL.dll
+C:\Projects\Arch_git\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.BLL.pdb
+C:\Projects\Arch_git\Archiving\Archiving\bin\Debug\netcoreapp2.1\Archiving.DAL.pdb
+C:\Projects\Arch_git\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.csprojAssemblyReference.cache
+C:\Projects\Arch_git\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.csproj.CoreCompileInputs.cache
+C:\Projects\Arch_git\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorAssemblyInfo.cache
+C:\Projects\Arch_git\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorAssemblyInfo.cs
+C:\Projects\Arch_git\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.AssemblyInfoInputs.cache
+C:\Projects\Arch_git\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.AssemblyInfo.cs
+C:\Projects\Arch_git\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.TagHelpers.input.cache
+C:\Projects\Arch_git\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.TagHelpers.output.cache
+C:\Projects\Arch_git\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorCoreGenerate.cache
+C:\Projects\Arch_git\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Projects\Arch_git\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Account\SignIn.g.cshtml.cs
+C:\Projects\Arch_git\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Archiving\ArchivingFiles.g.cshtml.cs
+C:\Projects\Arch_git\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Projects\Arch_git\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Projects\Arch_git\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Projects\Arch_git\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Projects\Arch_git\Archiving\Archiving\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Projects\Arch_git\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorTargetAssemblyInfo.cache
+C:\Projects\Arch_git\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.RazorTargetAssemblyInfo.cs
+C:\Projects\Arch_git\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.Views.pdb
+C:\Projects\Arch_git\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.csproj.CopyComplete
+C:\Projects\Arch_git\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.dll
+C:\Projects\Arch_git\Archiving\Archiving\obj\Debug\netcoreapp2.1\Archiving.pdb

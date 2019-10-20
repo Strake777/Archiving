@@ -1,0 +1,84 @@
+C:\Project\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.DAL.dll
+C:\Project\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.csprojAssemblyReference.cache
+C:\Project\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.csproj.CoreCompileInputs.cache
+C:\Project\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.AssemblyInfoInputs.cache
+C:\Project\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.AssemblyInfo.cs
+C:\Project\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.BLL.deps.json
+C:\Project\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.BLL.dll
+C:\Project\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.BLL.pdb
+C:\Project\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.DAL.pdb
+C:\Project\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.csproj.CopyComplete
+C:\Project\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.dll
+C:\Project\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.pdb
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.BLL.deps.json
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.BLL.dll
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.BLL.pdb
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.DAL.dll
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.DAL.pdb
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.csprojAssemblyReference.cache
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.AssemblyInfoInputs.cache
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.AssemblyInfo.cs
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.csproj.CopyComplete
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.dll
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.pdb
+C:\Users\Kalin\Desktop\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.BLL.deps.json
+C:\Users\Kalin\Desktop\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.BLL.dll
+C:\Users\Kalin\Desktop\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.BLL.pdb
+C:\Users\Kalin\Desktop\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.DAL.dll
+C:\Users\Kalin\Desktop\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.DAL.pdb
+C:\Users\Kalin\Desktop\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.csprojAssemblyReference.cache
+C:\Users\Kalin\Desktop\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Kalin\Desktop\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.AssemblyInfoInputs.cache
+C:\Users\Kalin\Desktop\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.AssemblyInfo.cs
+C:\Users\Kalin\Desktop\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.csproj.CopyComplete
+C:\Users\Kalin\Desktop\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.dll
+C:\Users\Kalin\Desktop\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.pdb
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.BLL.deps.json
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.BLL.dll
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.BLL.pdb
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.DAL.dll
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.DAL.pdb
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.csprojAssemblyReference.cache
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.AssemblyInfoInputs.cache
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.AssemblyInfo.cs
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.csproj.CopyComplete
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.dll
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.pdb
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.BLL.deps.json
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.BLL.dll
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.BLL.pdb
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.DAL.dll
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.DAL.pdb
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.csprojAssemblyReference.cache
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.AssemblyInfoInputs.cache
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.AssemblyInfo.cs
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.csproj.CopyComplete
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.dll
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.pdb
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.BLL.deps.json
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.BLL.dll
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.BLL.pdb
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.DAL.dll
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.DAL.pdb
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.csprojAssemblyReference.cache
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.AssemblyInfoInputs.cache
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.AssemblyInfo.cs
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.csproj.CopyComplete
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.dll
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.pdb
+C:\Projects\Arch_git\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.BLL.deps.json
+C:\Projects\Arch_git\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.BLL.dll
+C:\Projects\Arch_git\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.BLL.pdb
+C:\Projects\Arch_git\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.DAL.dll
+C:\Projects\Arch_git\Archiving\Archiving.BLL\bin\Debug\netcoreapp2.1\Archiving.DAL.pdb
+C:\Projects\Arch_git\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.csprojAssemblyReference.cache
+C:\Projects\Arch_git\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.csproj.CoreCompileInputs.cache
+C:\Projects\Arch_git\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.AssemblyInfoInputs.cache
+C:\Projects\Arch_git\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.AssemblyInfo.cs
+C:\Projects\Arch_git\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.csproj.CopyComplete
+C:\Projects\Arch_git\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.dll
+C:\Projects\Arch_git\Archiving\Archiving.BLL\obj\Debug\netcoreapp2.1\Archiving.BLL.pdb

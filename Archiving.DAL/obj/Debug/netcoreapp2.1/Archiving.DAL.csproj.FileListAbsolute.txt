@@ -1,0 +1,77 @@
+C:\Project\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.deps.json
+C:\Project\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.dll
+C:\Project\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.csprojAssemblyReference.cache
+C:\Project\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.csproj.CoreCompileInputs.cache
+C:\Project\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.AssemblyInfoInputs.cache
+C:\Project\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.AssemblyInfo.cs
+C:\Project\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.runtimeconfig.json
+C:\Project\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.runtimeconfig.dev.json
+C:\Project\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.pdb
+C:\Project\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.dll
+C:\Project\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.pdb
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.deps.json
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.runtimeconfig.json
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.runtimeconfig.dev.json
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.dll
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.pdb
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.csprojAssemblyReference.cache
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.AssemblyInfoInputs.cache
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.AssemblyInfo.cs
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.dll
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.pdb
+C:\Users\Kalin\Desktop\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.deps.json
+C:\Users\Kalin\Desktop\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.runtimeconfig.json
+C:\Users\Kalin\Desktop\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.runtimeconfig.dev.json
+C:\Users\Kalin\Desktop\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.dll
+C:\Users\Kalin\Desktop\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.pdb
+C:\Users\Kalin\Desktop\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.csprojAssemblyReference.cache
+C:\Users\Kalin\Desktop\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Kalin\Desktop\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.AssemblyInfoInputs.cache
+C:\Users\Kalin\Desktop\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.AssemblyInfo.cs
+C:\Users\Kalin\Desktop\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.dll
+C:\Users\Kalin\Desktop\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.pdb
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.deps.json
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.runtimeconfig.json
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.runtimeconfig.dev.json
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.dll
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.pdb
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.csprojAssemblyReference.cache
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.AssemblyInfoInputs.cache
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.AssemblyInfo.cs
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.dll
+C:\Users\Сергей Александрович\Desktop\Archiving\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.pdb
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.deps.json
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.runtimeconfig.json
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.runtimeconfig.dev.json
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.dll
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.pdb
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.csprojAssemblyReference.cache
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.AssemblyInfoInputs.cache
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.AssemblyInfo.cs
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.dll
+C:\Users\Kalin\Downloads\Archiving\Archiving\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.pdb
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.deps.json
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.runtimeconfig.json
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.runtimeconfig.dev.json
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.dll
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.pdb
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.csprojAssemblyReference.cache
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.AssemblyInfoInputs.cache
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.AssemblyInfo.cs
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.dll
+C:\Users\Сергей Александрович\Desktop\Archiving_1\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.pdb
+C:\Projects\Arch_git\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.deps.json
+C:\Projects\Arch_git\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.runtimeconfig.json
+C:\Projects\Arch_git\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.runtimeconfig.dev.json
+C:\Projects\Arch_git\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.dll
+C:\Projects\Arch_git\Archiving\Archiving.DAL\bin\Debug\netcoreapp2.1\Archiving.DAL.pdb
+C:\Projects\Arch_git\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.csprojAssemblyReference.cache
+C:\Projects\Arch_git\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.csproj.CoreCompileInputs.cache
+C:\Projects\Arch_git\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.AssemblyInfoInputs.cache
+C:\Projects\Arch_git\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.AssemblyInfo.cs
+C:\Projects\Arch_git\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.dll
+C:\Projects\Arch_git\Archiving\Archiving.DAL\obj\Debug\netcoreapp2.1\Archiving.DAL.pdb

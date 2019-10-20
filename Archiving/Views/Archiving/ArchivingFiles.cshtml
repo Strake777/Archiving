@@ -1,0 +1,84 @@
+﻿@model Archiving.Models.DirectoryModel;
+@{
+    ViewData["Title"] = "ArchivingFiles";
+    Layout = null;
+}
+
+<body>
+    <h2>ArchivingFiles</h2>
+
+    <div>
+        @using (Html.BeginForm("ArchivingFiles", "Archiving", FormMethod.Get))
+        {
+            @Html.TextBoxFor(m => m.DirectoryName)
+            <p><input id="change" type="submit" value="Change directory" /></p>
+        }
+    </div>
+
+    <div id="myList">
+        @if (Model.FilesInfo != null)
+        {
+            <table>
+                @for (int i = 0; i < Model.FilesInfo.Count; i++)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(m => m.FilesInfo[i].Name)</td>
+                        <td id="@Model.FilesInfo[i].Name" class="percent"></td>
+                    </tr>
+                }
+            </table>
+        }
+        <input id="start" type="submit" value="Архивировать" />
+        <input id="stop" type="button" value="Отменить" />
+    </div>
+
+    <form asp-action="Logout" asp-controller="Account" asp-anti-forgery="true">
+        <div class="validation" asp-validation-summary="ModelOnly" />
+        <div>
+            <input type="submit" value="Выход" />
+        </div>
+    </form>
+
+    <script src="~/js/signalr.min.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script>
+    $(document).ready(function(){
+        let hubUrl = 'https://localhost:44382/archive';
+        const hubConnection = new signalR.HubConnectionBuilder()
+            .withUrl(hubUrl)
+            .build();
+        // получение сообщения от сервера
+        hubConnection.on('Notify', function (message, percent) {
+            document.getElementById(message).textContent = percent;
+
+        });
+
+        hubConnection.start();
+
+        
+
+        $('#start').click(function (e) {
+            e.preventDefault();
+            $.ajax({
+                url: '/Archiving/StartArchive',
+                type: 'post',
+                data: {
+                    directoryName: "@Model.DirectoryName?.Replace("\\", "\\\\")"
+                },
+                success: function () {
+                }
+            });
+        });
+
+        $('#stop').click(function (e) {
+            $.ajax({
+                url: '/Archiving/StopArchive',
+                type: 'get',
+                success: function () {
+                    document.getElementsByClassName("percent").textContent = "0";
+                }
+            });
+        });
+    });
+    </script>
+</body>
